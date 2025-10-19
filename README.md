@@ -2,7 +2,7 @@
 Jogo para fim didático em Pythin
 
 # Desenvolvimento
-Para desenvolver este jogo foi utilizado a biblioteca pgzero
+Para desenvolver este jogo foi utilizado a biblioteca pgzero logo é um pré requisito telá instalado na sua máquina para que o jogo funcione corretamemente.
 
 # Intrusções do desenvolvimento
 Foram desenvolvidos 4 atores para os resíduos sendo um para plástico, um para vidro, um para metal e um para papel.
