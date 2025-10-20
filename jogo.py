@@ -1,5 +1,4 @@
 import random
-
 import pgzrun
 from pgzero.actor import Actor
 from pgzero.loaders import sounds
@@ -16,7 +15,7 @@ ator_ativo.topright = 0, 10
 life = 3
 
 WIDTH = 480
-HEIGHT = ator_ativo.height + 60
+HEIGHT = 180
 
 def draw():
     screen.clear()
@@ -170,3 +169,4 @@ def on_key_down(key):
         reiniciar_jogo()
 
 pgzrun.go()
+
