@@ -1,5 +1,5 @@
 # gamepgzero
-Jogo para fim didático em Pythin
+Jogo para fim didático em Python
 
 # Desenvolvimento
 Para desenvolver este jogo foi utilizado a biblioteca pgzero logo é um pré requisito telá instalado na sua máquina para que o jogo funcione corretamemente.
